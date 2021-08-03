@@ -1,4 +1,4 @@
-- 👋 Hey, evetyone! I’m @kameikay
+- 👋 Hey, everyone! I’m @kameikay
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning ReactJS (NextJS) and NodeJS!
 
