@@ -3,7 +3,7 @@
 - 📖 I’m currently learning ReactJS (NextJS), TypeScript and NodeJS!
 
 
-## Github Stats ⚡
+## ⚡ Github Stats 
 <div style="display: flex; align_items: center; justify-content: center;">
   <a href="https://www.linkedin.com/in/kameikay/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kameikay&show_icons=true&theme=onedark">
@@ -11,16 +11,16 @@
   </a>
 </div>
 
-## Technologies 💻
+## 💻 Technologies 
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+</div><br>
 
-## Get in touch! 😁
+## 😁 Get in touch! 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/kameikay">
     <img align="center" height="30" width="30" alt="Instagram" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-160-461814.png">
