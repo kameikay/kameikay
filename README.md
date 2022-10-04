@@ -1,6 +1,6 @@
 # Hey, folks! I'm Victor Kamei Kay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in web development.
-- 📖 I just LOVE learning ReactJS (NextJS), React Native, TypeScript and NodeJS!
+- 📖 I just LOVE learning ReactJS (NextJS), React Native, TypeScript, NodeJS and Go!
 
 
 ## ⚡ Github Stats 
