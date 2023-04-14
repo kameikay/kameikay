@@ -1,6 +1,6 @@
 # Hey, folks! I'm Victor Kamei Kay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 👀 I’m interested in web development.
-- 📖 I just LOVE learning ReactJS (NextJS), React Native, TypeScript, NodeJS and Go!
+- 👨🏻‍💻 Fullstack Software Developer.
+- 📖 Javascript/TypeScript (ReactJS and NodeJS) and Go lang!
 
 
 ## ⚡ Github Stats 
@@ -13,8 +13,6 @@
 
 ## 💻 Technologies 
 <div style="display: inline-block"><br>
-  <img align="center" height="30" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
