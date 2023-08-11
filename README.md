@@ -1,6 +1,6 @@
 # Hey! I'm Victor Kamei Kay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 👨🏻‍💻 Fullstack Software Developer.
-- 📖 Go lang and Javascript/TypeScript (ReactJS and NodeJS)
+- 👨🏻‍💻 Software Engineer.
+- 📖 Golang and Javascript/TypeScript (ReactJS and NodeJS)
 
 
 ## ⚡ Github Stats 
