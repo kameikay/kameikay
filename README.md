@@ -13,10 +13,10 @@
 
 ## 💻 Technologies 
 <div style="display: inline-block"><br>
+  <img align="center" height="30" width="40" alt="Golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" height="30" width="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="Golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div><br>
 
 ## 😁 Get in touch! 
